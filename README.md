@@ -30,23 +30,23 @@ Este projeto usa tecnologias modernas para criar uma aplicação de IA aplicada 
 
 1. Clone o repositório:
 
-```   ```bash
+```bash
    git clone 
    cd fullstackweek-financeai
 ```
 
 Instale as dependências:
 
-bash
+``` bash
 
 npm install
 # ou
 yarn install
+``` 
 
 Configure o banco de dados com Prisma:
 
-   ```bash
-
+```bash
 npx prisma migrate dev
 ```
 Inicie o servidor de desenvolvimento:
