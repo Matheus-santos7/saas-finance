@@ -1,7 +1,7 @@
 import Navbar from "../_components/navbar";
 
-const Subscription = () => {
+const Dashboard = () => {
   return <Navbar />;
 };
 
-export default Subscription;
+export default Dashboard;
